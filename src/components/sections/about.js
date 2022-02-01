@@ -145,17 +145,17 @@ const About = () => {
             <p>
               Hello! My name is Alan and I began my software engineering journey back in 2018 after
               my failed stint as an actor in LA. After going back to the drawing board, I decided to
-              chose a career path that was interesting and where I was allowed some level of
-              creative freedom. Software engineering checked both boxes for me so I made it a goal
-              of mine to get my computer science degree!
+              chose a career path that was interesting and gave me some level of creative freedom.
+              Software engineering checked both boxes for me so I made it a goal of mine to get my
+              computer science degree!
             </p>
             <p>
               I was admitted into CSU East Bay where I was able to obtain an internship at{' '}
-              <a href="https://www.llnl.gov/">Lawrence Livermore National Labs</a>. In May 2020 I
-              was finally able to attain my B.S. in Computer Science. A full year after I graduated,
-              I began my first job as a new grad at{' '}
-              <a href="https://www.cognizant.com/us/en">Cognizant</a>
-              where I'm able to work with a plethora of different tools and technology.
+              <a href="https://www.llnl.gov/">Lawrence Livermore National Labs</a>. I graduated in
+              May 2020 with a B.S. in Computer Science. After taking a bit of time off, I began my
+              first job as a new grad at <a href="https://www.cognizant.com/us/en">Cognizant</a>
+              almost a full year after graduating. where I'm able to work with a plethora of
+              different tools and technology.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
