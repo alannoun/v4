@@ -12,11 +12,7 @@ module.exports = {
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/alanpnoun',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/alannoun',
+      url: 'https://www.instagram.com/alannoun',
     },
   ],
 

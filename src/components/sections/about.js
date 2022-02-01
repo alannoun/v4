@@ -126,14 +126,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = [
-    'JavaScript (ES6+)',
-    'TypeScript',
-    'React',
-    'ReactNative',
-    'Node.js',
-    'TensorFlowJS',
-  ];
+  const skills = ['TypeScript', 'React', 'ReactNative', 'Node.js', 'TensorFlowJS', 'SpringBoot'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -153,9 +146,8 @@ const About = () => {
               I was admitted into CSU East Bay where I was able to obtain an internship at{' '}
               <a href="https://www.llnl.gov/">Lawrence Livermore National Labs</a>. I graduated in
               May 2020 with a B.S. in Computer Science. After taking a bit of time off, I began my
-              first job as a new grad at <a href="https://www.cognizant.com/us/en">Cognizant</a>
-              almost a full year after graduating. where I'm able to work with a plethora of
-              different tools and technology.
+              first job as a new grad at <a href="https://www.cognizant.com/us/en">Cognizant </a>{' '}
+              where I'm able to work with a plethora of different tools and technology.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
