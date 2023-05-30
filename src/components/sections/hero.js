@@ -68,7 +68,7 @@ const Hero = () => {
         <a href="https://www.cognizant.com/us/en" target="_blank" rel="noreferrer">
           Cognizant
         </a>{' '}
-        building responsive web and mobile applications using React &amp; React Native.
+        building responsive web and mobile applications using React, React Native, NodeJS, &amp; AWS.
       </p>
     </>
   );
