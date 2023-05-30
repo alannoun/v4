@@ -6,14 +6,14 @@ module.exports = {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/alan-noun-4b7167b6/',
     },
-    {
-      name: 'GitHub',
-      url: 'https://github.com/alannoun',
-    },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/alannoun',
-    },
+    // {
+    //   name: 'GitHub',
+    //   url: 'https://github.com/alannoun',
+    // },
+    // {
+    //   name: 'Instagram',
+    //   url: 'https://www.instagram.com/alannoun',
+    // },
   ],
 
   navLinks: [
